@@ -1,0 +1,3 @@
+# Pattern: internal service tokens with custom format
+JFROG_INTERNAL_SVC_xyz123_abc456_TOKEN_789def
+ARTIFACTORY_WORKER_tk_a1b2c3d4e5f6_v2_prod
